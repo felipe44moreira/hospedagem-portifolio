@@ -1,0 +1,48 @@
+header {
+    background: #cc5444;
+    color: #dfd9d9;
+    padding: 2px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 100px
+    
+}
+
+
+.container{
+    display: flex; /* Use flexbox para alinhar itens lado a lado */
+    align-items: center;
+
+}
+
+.img{
+    max-width: 20%; /* Defina a largura máxima da imagem conforme necessário */
+    margin: 100px;
+    border-radius: 30%;
+
+}
+p {
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    color: #dfd9d9;
+    display: flex;
+    align-items: center;
+    margin: 80px;
+}
+
+body{
+    background-color: black;
+    
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #cc5444;
+    font-family: 'Poppins', sans-serif;;
+    border: none;
+    color:#dfd9d9;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 100px
+}
